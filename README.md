@@ -6,7 +6,7 @@
 ---
 
 ### 💡 About Me
-I'm a passionate **Full Stack Software Engineer** with expertise in **Python, JavaScript, PHP, and modern frontend frameworks**.  
+I'm a passionate **Full Stack Software Engineer** with expertise in **Python, JavaScript, PHP, and modern frontend frameworks like React, React Native etc**.  
 I love designing **data-driven applications**, solving complex problems, and creating **impactful digital solutions**.  
 My work spans **web, mobile, and backend systems**, with a focus on **scalability, performance, and user experience**.
 
@@ -18,7 +18,7 @@ My work spans **web, mobile, and backend systems**, with a focus on **scalabilit
 - Craft responsive designs with TailwindCSS & Bootstrap  
 
 🌱 **Currently Learning:** Advanced AI/ML production deployment & DevOps best practices  
-⚡ **Fun fact:** I love turning complex problems into elegant code — and good coffee fuels it all ☕
+⚡ **Fun fact:** I love turning complex problems into elegant code — and good good music plus coffee fuels it all ☕😊
 
 ---
 
