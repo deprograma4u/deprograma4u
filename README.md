@@ -65,12 +65,12 @@ My work spans **web, mobile, and backend systems**, with a focus on **scalabilit
 ## 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafik-coder&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafik-coder&theme=tokyonight" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rafik-coder&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
