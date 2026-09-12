@@ -12,7 +12,7 @@
 
 I'm a **Software Engineer** focused on building practical software, AI-powered tools, secure applications, and real-world digital products.
 
-Through **DePrograma**, I document what I build, explain the engineering behind it, and share lessons from software development, AI, cybersecurity, APIs, backend systems, and SaaS.
+Through my youtube channel titled **DePrograma**, I document what I build, explain the engineering behind it, and share lessons from software development, AI, cybersecurity, APIs, backend systems, and SaaS.
 
 My work spans:
 
