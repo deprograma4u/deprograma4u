@@ -100,12 +100,9 @@ I primarily work with **JavaScript, Node.js, React, Next.js, Python, PHP, Flask,
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deprograma4u&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deprograma4u&theme=tokyonight" alt="GitHub Streak" height="165" />
-</p>
+Check out my pinned repositories below for the projects I'm currently building and maintaining.
 
 ---
 
