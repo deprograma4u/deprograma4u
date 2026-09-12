@@ -56,12 +56,14 @@ I primarily work with **JavaScript, Node.js, React, Next.js, Python, PHP, Flask,
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Databases
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -81,7 +83,7 @@ I primarily work with **JavaScript, Node.js, React, Next.js, Python, PHP, Flask,
 |---|---|---|
 | [**Vimatone**](https://vimatone.com) | Scalable e-commerce platform with structured backend management and modern storefront architecture. | Next.js, Node.js, MySQL |
 | [**HHSolutions Investment**](https://heritageherbalsolutions.com) | Investment-focused platform supporting participation in the growth of Heritage Herbal Solutions. | React, Vite, Node.js |
-| [**AfriGrow**](https://github.com/Rafik-coder/afrigrow) | Agricultural advisory mobile app designed for Ghanaian farmers, including local-language interaction. | React Native, Python, FastAPI, NLP |
+| [**AfriGrow**](https://github.com/deprograma4u/afrigrow) | Agricultural advisory mobile app designed for Ghanaian farmers, including local-language interaction. | React Native, Python, FastAPI, NLP |
 | [**Image Forgery Detection**](https://github.com/deprograma4u/Image-Forgery-Detection) | Image manipulation detection system using computer vision and integrity verification techniques. | Python, Flask, OpenCV, VGG16 |
 | [**Face Recognition Attendance System**](https://github.com/deprograma4u/Face-Recognition-Attendance) | Real-time attendance system using facial recognition and browser-based video capture. | Python, DeepFace, JavaScript, SQLite |
 
@@ -101,8 +103,8 @@ I primarily work with **JavaScript, Node.js, React, Next.js, Python, PHP, Flask,
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafik-coder&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafik-coder&theme=tokyonight" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deprograma4u&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deprograma4u&theme=tokyonight" alt="GitHub Streak" height="165" />
 </p>
 
 ---
@@ -110,7 +112,7 @@ I primarily work with **JavaScript, Node.js, React, Next.js, Python, PHP, Flask,
 ## Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdul-rafik-adam-3a37271b0">
+  <a href="https://www.linkedin.com/in/deprograma4u/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
